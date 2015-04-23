@@ -5,7 +5,7 @@ Listas de peças que comprei para montar um multimotor(drone)
 
 * [Frame que uso](http://www.banggood.com/Wholesale-CSL-X525-V3-4-Axis-KK-MK-AQ50D-Quadcopter-Frame-Set-p-50288.html)
 
-* [Frame dois (LHC)] [http://www.goodluckbuy.com/hj-diy-multi-axis-870mm-carbon-fiber-fpv-quadcopter-frame-kit-whiteblack-motor-mount-.html]
+* [Frame dois (LHC)] (http://www.goodluckbuy.com/hj-diy-multi-axis-870mm-carbon-fiber-fpv-quadcopter-frame-kit-whiteblack-motor-mount-.html)
 
 ##Motor
 Motor : EMAX XA2212 980KV Brushless Motor w/Prop Adapter and Accessories for RC Quadcopter
