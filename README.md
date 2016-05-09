@@ -3,6 +3,9 @@ Listas de peças que comprei para montar um multimotor(drone)
 
 ##FRAME
 * [Frame que uso : CSL X525 V3](http://www.banggood.com/Wholesale-CSL-X525-V3-4-Axis-KK-MK-AQ50D-Quadcopter-Frame-Set-p-50288.html)
+* 
+##CONTROLADORA
+*[CONTROLADORA : Apm2.6 ArduPilot Mega APM 2.6 controlador de vôo Board w / Case de proteção para Multirotor Quadcopter ] (http://www.aliexpress.com/snapshot/6913506750.html?orderId=69304307068946)
 
 * [Frame dois (LHC) : HJ-DIY Multi-Axis 870mm ](http://www.goodluckbuy.com/hj-diy-multi-axis-870mm-carbon-fiber-fpv-quadcopter-frame-kit-whiteblack-motor-mount-.html)
 
